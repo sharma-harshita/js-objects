@@ -14,3 +14,4 @@ function Person (first, last){
 console.log(user.calculateSalary(30000));
 const person1 = new Person("John", "Jack");
 console.log(person1);
+console.log(user.printAge);
